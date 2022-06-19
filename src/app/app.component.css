@@ -1,0 +1,23 @@
+
+a{
+  font-family: 'Hahmlet'!important;
+}
+body
+{
+  font-family:'Courier New', Courier, monospace!important;
+
+}
+
+.bg-light{
+    background-color: white!important;
+    --bs-bg-opacity: 0!important;
+}
+.container{
+    max-width: 100%!important;
+}
+  .pp{
+    color: yellowgreen!important;
+  }
+
+ /* @import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@200&display=swap')*/
+

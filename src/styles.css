@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: lato;
+    src: url(https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2) format('woff2');  }
+  body{
+    font-family: lato!important;
+  }
